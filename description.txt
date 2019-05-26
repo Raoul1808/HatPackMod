@@ -1,0 +1,24 @@
+[c/00FFFF:Hat Pack adds hats]
+Vanity hats
+
+Because why not...
+
+
+[c/FF0000:Version 0.1.2]:
+*Moved the mod on Github so the new icon appears
+
+[c/FF0000:Version 0.1.1]:
+-Removed the unfinished Umbrella item
++Added an icon to the mod
++Added new hat -> Check the Current hats section
++Added crafting recipes to hats, so you can have them in survival mode
+
+[c/0101DF:Current hats]:
+*Kid's Hat from A Hat in Time
+*Ice Hat from A Hat in Time
+
+[c/FACC2E:Other hats coming soon]
+
+Consider joining our Discord Server for more mods
+<3
+Raoul1808 from the Stuff of Raoul team
